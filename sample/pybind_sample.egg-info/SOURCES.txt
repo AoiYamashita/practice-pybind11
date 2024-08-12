@@ -1,0 +1,8 @@
+setup.py
+pybind_sample.egg-info/PKG-INFO
+pybind_sample.egg-info/SOURCES.txt
+pybind_sample.egg-info/dependency_links.txt
+pybind_sample.egg-info/not-zip-safe
+pybind_sample.egg-info/requires.txt
+pybind_sample.egg-info/top_level.txt
+src/sample.cpp
